@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 changes 1
 changes 2
+=======
+>>>>>>> parent of 9222d08... thay doi lan 1
