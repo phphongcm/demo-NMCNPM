@@ -1,2 +1,3 @@
 # demo-NMCNPM
-Nhập môn công nghệ phần mêm
+Nhập môn công nghệ phần mêm 
+thay doi choi uzui
